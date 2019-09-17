@@ -18,6 +18,6 @@ Basically, the overall system will be based on a tablet (e.g., iPad), which is g
 
 ## Developers
 - Sebastian Eduardo Aya Medina  - sebastian.aya@correo.usa.edu.co
-- Jorge Andres Diaz Naranjo - jorge.diaz1@correo.usa.edu.co
+- Jorge Andres Díaz Naranjo - jorge.diaz1@correo.usa.edu.co
 - Sebastian Alexander Mancipe Paredes - sebastian.mancipe@correo.usa.edu.co
 
