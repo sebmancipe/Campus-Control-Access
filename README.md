@@ -4,7 +4,11 @@
 [TOCM]
 
 ## Summary
-<p align="right">The physical control access for an establishment is a daily and vital activity for the host institution because, in many cases, safety, comfort, and appropriate execution of the events, that take place there, depend on it. Nowadays, traditional control access mechanisms such as the well-known ID card might be obsolete due to several reasons: phishing, theft, forgetfulness. Besides, the appearing of new drivers such as small, low cost and powerful embedded systems, techniques based on Artificial Intelligent, among others, are making possible the implementation of robust and safety systems</p>
+<p align="right"> The physical control access for an establishment is a daily and vital activity for the host institution 
+because, in many cases, safety, comfort, and appropriate execution of the events, that take place there, depend on it.
+Nowadays, traditional control access mechanisms such as the well-known ID card might be obsolete due to several reasons:
+phishing, theft, forgetfulness. Besides, the appearing of new drivers such as small, low cost and powerful embedded systems,
+techniques based on Artificial Intelligent, among others, are making possible the implementation of robust and safety systems
 
 The main goal of the project is the design and implementation of a reliable IoT-based system for control access to Campus using different technologies such as QR technology and facial recognization, without relegating the current system based on ID card recognition implemented in the host institution.
 
